@@ -1,5 +1,5 @@
-git clone https://github.com/ZThon-fr/ZTZ FRANCE
+git clone https://github.com/MohammedRD313/Scorpion FRANCE
 cd FRANCE
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
-python3 -m zelz
+python3 -m JoKeRUB
