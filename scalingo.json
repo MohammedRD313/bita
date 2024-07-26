@@ -1,7 +1,6 @@
 {
     "name": " العقرب | 𝗦𝗰𝗼𝗿𝗽𝗶𝗼 🦂",
     "description": "• استمتعو مع سورس العقرب",
-    "addons": ["scalingo-postgresql"],
     "keywords": ["JoKeRUB", "ai","telegram"],
     "repository": "https://github.com/MohammedRD313/Scorpion",
     "logo": "https://telegra.ph/file/886f1bb957813121615e9.jpg",
@@ -12,19 +11,24 @@
             "required": true
         },
         "TG_BOT_TOKEN": {
-            "description": "تـــوكـــن البـــوت المســاعـد الخــاص بـك - مـن بـوت فـاذر〔 Botfather@ 〕..",
+            "description": "هنا تضع التوكن ..",
             "required": true,
             "value":""
         },
         "APP_ID": {
-            "description": "كـود ايبي ايـدي〔 App id ",
+            "description": "كـود ايبي ايـدي ",
             "required": true,
             "value":" هنا "
         },
         "API_HASH": {
-            "description": "كـود ايبي هـاش〔 Api Hash 〕",
+            "description": "كـود ايبي هـاش",
             "required": true,
-            "value":" هنا "
+            "value":" "
+        },
+        "DATABASE_URL": {
+            "description": "هنا تضع الداتا ...",
+            "required": true,
+            "value":""
         },
         "TZ": {
             "description": "المنطقـــه الزمنيـــه لا تغيــرهـــا",
