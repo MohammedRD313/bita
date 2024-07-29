@@ -6,6 +6,10 @@
     "logo": "https://telegra.ph/file/886f1bb957813121615e9.jpg",
     "stack": "container",
     "env": {
+        "ALIVE_NAME": {
+            "description": "اسمك في التلگرام -",
+            "required": true
+        },
         "STRING_SESSION": {
             "description": "كـــود جلســة تيــرمكــس -",
             "required": true
