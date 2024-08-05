@@ -1,4 +1,4 @@
-git clone https://github.com/MohammedRD313/JC FRANCE
+git clone https://github.com/MohammedRD313/Scorpion FRANCE
 mv FRANCE Frankfurt
 cd Frankfurt
 pip3 install --upgrade pip
