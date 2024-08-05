@@ -16,20 +16,15 @@
             "required": true,
             "value":""
         },
-        "ALIVE_NAME": {
-            "description": "هنا اسم حسابك التلي",
-            "required": true,
-            "value":""
-        },
         "APP_ID": {
             "description": "كـود ايبي ايـدي ",
             "required": true,
-            "value":" "
+            "value":"9514755"
         },
         "API_HASH": {
             "description": "كـود ايبي هـاش",
             "required": true,
-            "value":" "
+            "value":"40e7041d06ea7b6ee1cf39b3188b3452"
         },
         "TZ": {
             "description": "المنطقـــه الزمنيـــه لا تغيــرهـــا",
