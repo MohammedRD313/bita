@@ -1,4 +1,6 @@
-git clone https://github.com/MohammedRD313/Scorpion
+git clone https://github.com/MohammedRD313/JC FRANCE
+mv FRANCE Frankfurt
+cd Frankfurt
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
 python3 -m JoKeRUB
